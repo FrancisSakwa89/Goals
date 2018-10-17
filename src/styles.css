@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+ /* h1{
+   color:blue;
+   text-align: center;
+   text-decoration: underline;
+   text-decoration-style: wavy;
+}
+li{
+   color: cyan;
+}
+   body{
+   font-size: 1.5em;
+   background-color: salmon;
+   text-align: center;
+   /* background-image: url("http://www.gifimagesdownload.com/wp-content/uploads/2016/02/new-background-gif-457.gif"); */
+ /* }
+ul{
+   list-style-type: none;
+}
+p{
+   color: yellow;
+} */
+@import "~bootstrap/dist/css/bootstrap.css"
